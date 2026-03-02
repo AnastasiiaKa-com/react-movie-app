@@ -4,7 +4,7 @@ A modern movie search application built with React + TypeScript + Vite.
 Users can search for movies, view detailed information, and save favorites.
 
 ## 🚀 Live Demo
-(Добавим ссылку после деплоя)
+(https://anastasiiaka-com.github.io/react-movie-app/)
 
 ---
 
@@ -60,11 +60,12 @@ You can get a free API key from TMDB.
 
 ## 📁 Project Structure
 src/
+ └── assets/
  ├── components/
  ├── pages/
  ├── services/
  ├── types/
- └── assets/
+ 
 
 ---
 
@@ -72,15 +73,13 @@ src/
 
 The project can be deployed on:
 
-- Vercel
-- Netlify
 - GitHub Pages
 
 ---
 
 ## 👩‍💻 Author
 
-Anastasiia
+Anastasiia Karpenko
 
 ---
 
